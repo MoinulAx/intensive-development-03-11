@@ -1,0 +1,24 @@
+body{
+    justify-content: center;
+    display: ;
+    position: relative;
+}
+.card-container{
+    border: 10px solid;
+    position: absolute;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 3fr;
+    grid-template-areas: 
+    "header-img"
+    "pfp"
+    "heading"
+    "paragraph";
+    justify-content: center;
+    position: absolute;
+
+   
+
+}
+
+
